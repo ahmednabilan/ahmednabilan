@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**ahmednabilan/ahmednabilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ahmed Nabil 👋
 
-Here are some ideas to get you started:
+Mechatronics Engineering student at the Higher Technological Institute (10th of Ramadan City, Egypt).
+I'm passionate about merging machinery and software, with a focus on **AI & Automation**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Python:** NumPy, Pandas, Scikit-learn
+- **C++**
+- **Design:** SolidWorks
+- **Tools:** VS Code, Git, Arduino
+
+## 🎯 Currently
+- Integrating AI applications with mechatronics systems
+- Mastering 3D mechanical design in SolidWorks
+- Building a strong C++ foundation for embedded and automation projects
+
+## 📫 Contact
+- LinkedIn: (www.linkedin.com/in/ahmed-nabil-1a7b6b397)
